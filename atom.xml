@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老孙博客</title>
+  
+  <subtitle>资深网民孙先生</subtitle>
+  <link href="https://weblog.js.org/atom.xml" rel="self"/>
+  
+  <link href="https://weblog.js.org/"/>
+  <updated>2023-04-10T05:10:31.000Z</updated>
+  <id>https://weblog.js.org/</id>
+  
+  <author>
+    <name>老孙</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>bandwagonhost搬瓦工2023年最新优惠码</title>
+    <link href="https://weblog.js.org/bandwagonhost-ban-wa-gong-2023-nian-zui-xin-you-hui-ma/"/>
+    <id>https://weblog.js.org/bandwagonhost-ban-wa-gong-2023-nian-zui-xin-you-hui-ma/</id>
+    <published>2023-04-10T01:27:17.000Z</published>
+    <updated>2023-04-10T05:10:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="搬瓦工中国镜像"><a href="#搬瓦工中国镜像" class="headerlink" title="搬瓦工中国镜像"></a>搬瓦工中国镜像</h2><p><a href="https://bwh88.net/aff.php?aff=65816">https://bwh88.net/</a></p><h2 id="2023年4月最新优惠码"><a href="#2023年4月最新优惠码" class="headerlink" title="2023年4月最新优惠码"></a>2023年4月最新优惠码</h2><p><code>BWHNCXNVXV </code><br>折扣6.81%循环使用</p><h2 id="CN联通直连地址"><a href="#CN联通直连地址" class="headerlink" title="CN联通直连地址"></a>CN联通直连地址</h2><p><a href="https://bwh88.net/cart.php?a=confproduct&i=1&aff=65816">https://bwh88.net/cart.php?a=confproduct&amp;i=1</a></p><h2 id="演示地址"><a href="#演示地址" class="headerlink" title="演示地址"></a>演示地址</h2><p>bbs.xiaoxiao.su</p><p><img src="https://s2.loli.net/2023/04/10/NWymRpM7HGrU4xi.png" alt="https://s2.loli.net/2023/04/10/NWymRpM7HGrU4xi.png"></p><p>机房 洛杉矶<br>线路DC2 CN直连<br><img src="https://blog-1251893119.cos.ap-shanghai.myqcloud.com/upload/20230410094130.png" alt="1"></p>]]></content>
+    
+    
+    <summary type="html">搬瓦工中国镜像 https://bwh88.net/ 2023年4月最新优惠码 BWHNCXNVXV 折扣6.81%循环使用 CN联通直连地址 https://bwh88.net/cart.php?a=confproduct&amp;i=1 演示地址 bbs.xiaoxiao.su 机房 洛杉矶 线路DC2 CN直连 </summary>
+    
+    
+    
+    <category term="分享" scheme="https://weblog.js.org/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="搬瓦工" scheme="https://weblog.js.org/tags/%E6%90%AC%E7%93%A6%E5%B7%A5/"/>
+    
+    <category term="优惠码" scheme="https://weblog.js.org/tags/%E4%BC%98%E6%83%A0%E7%A0%81/"/>
+    
+    <category term="教程" scheme="https://weblog.js.org/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Typecho配置全站CDN加速</title>
+    <link href="https://weblog.js.org/typecho-pei-zhi-quan-zhan-cdn-jia-su/"/>
+    <id>https://weblog.js.org/typecho-pei-zhi-quan-zhan-cdn-jia-su/</id>
+    <published>2023-04-06T08:15:41.000Z</published>
+    <updated>2023-04-10T04:34:37.761Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>由于全站使用CDN加速，进入后台时出现页面异常，登录不上</p></blockquote><p> 这里以又拍云为例</p><ul><li>在源站设置</li></ul><p> <img src="https://s2.loli.net/2023/04/06/bfHAkDU3sPOFTc7.png" alt="1.png"><br> 如果你的源站使用SSL，CDN也使用SSL，就选择协议跟随</p><ul><li>在缓存设置</li></ul><p> <img src="https://s2.loli.net/2023/04/06/Otbe4Faiz5PYH6S.png" alt="2.png"></p><p> <img src="https://s2.loli.net/2023/04/06/cNbv3axJ6pG7PkK.png" alt="3.png"><br>如果使用伪静态就不用排除<br><code>/index.php/action/*</code></p><ul><li>参数跟随</li></ul><p> <img src="https://s2.loli.net/2023/04/06/vuLzsY2hH78jZgP.png" alt="4.png"></p>]]></content>
+    
+    
+    <summary type="html">由于全站使用CDN加速，进入后台时出现页面异常，登录不上 这里以又拍云为例在源站设置  如果你的源站使用SSL，CDN也使用SSL，就选择协议跟随在缓存设置  如果使用伪静态就不用排除/index.p</summary>
+    
+    
+    
+    <category term="分享" scheme="https://weblog.js.org/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="typecho" scheme="https://weblog.js.org/tags/typecho/"/>
+    
+    <category term="cdn" scheme="https://weblog.js.org/tags/cdn/"/>
+    
+    <category term="upyun" scheme="https://weblog.js.org/tags/upyun/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown中的各种技巧</title>
+    <link href="https://weblog.js.org/markdown-zhong-de-ge-chong-ji-qiao/"/>
+    <id>https://weblog.js.org/markdown-zhong-de-ge-chong-ji-qiao/</id>
+    <published>2023-04-03T07:58:37.000Z</published>
+    <updated>2023-04-10T04:34:37.761Z</updated>
+    
+    <content type="html"><![CDATA[<p>语法：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&amp;#10006; </span><br></pre></td></tr></table></figure><p>效果：&#10006; </p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&amp;#10004;</span><br></pre></td></tr></table></figure><p>效果：&#10004;</p><table><thead><tr><th align="left">toDo</th><th align="left">date</th></tr></thead><tbody><tr><td align="left">:white_check_mark:</td><td align="left">:heavy_check_mark:</td></tr></tbody></table><ul><li>可选框源码<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">*</span> [x] check</span><br><span class="line"><span class="bullet">*</span> [ ] discheck</span><br></pre></td></tr></table></figure>效果</li></ul><ul><li><input checked="" disabled="" type="checkbox"> check</li><li><input disabled="" type="checkbox"> discheck</li></ul><p>返回上级标题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[上级标题](#markdown)</span><br></pre></td></tr></table></figure><p>效果<br><a href="#markdown">上级标题</a></p>]]></content>
+    
+    
+    <summary type="html">语法：1&amp;amp;#10006; 效果：&amp;#10006; 1&amp;amp;#10004;效果：&amp;#10004;toDodate:white_check_mark::heavy_check_mark:可选框</summary>
+    
+    
+    
+    <category term="分享" scheme="https://weblog.js.org/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="教程" scheme="https://weblog.js.org/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="markdown" scheme="https://weblog.js.org/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【2023】注册Vultr教程和送100美金活动！</title>
+    <link href="https://weblog.js.org/2023-zhu-ce-vultr-jiao-cheng-he-song-100-mei-jin-huo-dong/"/>
+    <id>https://weblog.js.org/2023-zhu-ce-vultr-jiao-cheng-he-song-100-mei-jin-huo-dong/</id>
+    <published>2023-04-03T03:39:10.000Z</published>
+    <updated>2023-04-10T04:34:37.762Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Vultr的优势"><a href="#Vultr的优势" class="headerlink" title="Vultr的优势"></a>Vultr的优势</h3><p>1、便宜：最便宜的套餐2.5美元/月</p><p>2、配置好：机器采用E3的CPU，清一色SSD硬盘，全球17个数据中心，全天24小时都可创建</p><p>3、可装锐速：可以安装锐速或BBR相对于OVZ架构的VPS拥有巨大优势</p><p>4、活动多： 新用户优惠力度大。</p><h3 id="注册地址"><a href="#注册地址" class="headerlink" title="注册地址"></a>注册地址</h3><p><a href="https://www.vultr.com/?ref=9406174-8H">https://www.vultr.com/</a></p><p>2023 年最新限时活动，「新用户」只有通过本链接注册，才会有充值 10美元 以上送 100 美元 的奖励<br><a href="https://www.vultr.com/?ref=9406174-8H">https://www.vultr.com/</a></p><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p>不要投机多注册账户。如果多注册账户被发现，所有关联VULTR账户都会被关闭，如果需要多注册，那也需要注意IP问题、账户信息唯一性，以及支付付款的唯一性。</p><p>注册后就充值，由于有活动，通过上面的链接注册充值10美元会送100美元，这样我们的账户就有110美元了。</p><h3 id="注册步骤"><a href="#注册步骤" class="headerlink" title="注册步骤"></a>注册步骤</h3><p><img src="https://cdn.chaihu.top/1.png" alt="1"><br>按图输入邮箱和要设置的密码（最少10位，要同时有数字和大小写字母），最后点击create account创建<br><img src="https://cdn.chaihu.top/2.png" alt="2"><br>最新支持支付宝支付<br><img src="https://cdn.chaihu.top/3.png" alt="3"><br> 2.5$ IPV6服务器暂时不支持搭建，请大家购买3.5$+的服务器。<br><img src="https://cdn.chaihu.top/4.png" alt="4"><br><img src="https://cdn.chaihu.top/5.png" alt="5"><br><img src="https://cdn.chaihu.top/6.png" alt="6"><br><img src="https://cdn.chaihu.top/7.png" alt="7"><br><img src="https://cdn.chaihu.top/8.png" alt="8"></p>]]></content>
+    
+    
+    <summary type="html">Vultr的优势1、便宜：最便宜的套餐2.5美元/月2、配置好：机器采用E3的CPU，清一色SSD硬盘，全球17个数据中心，全天24小时都可创建3、可装锐速：可以安装锐速或BBR相对于OVZ架构的VP</summary>
+    
+    
+    
+    <category term="分享" scheme="https://weblog.js.org/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="vultr" scheme="https://weblog.js.org/tags/vultr/"/>
+    
+    <category term="vps" scheme="https://weblog.js.org/tags/vps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内注册ChatGPT的方法</title>
+    <link href="https://weblog.js.org/guo-nei-zhu-ce-chatgpt-de-fang-fa/"/>
+    <id>https://weblog.js.org/guo-nei-zhu-ce-chatgpt-de-fang-fa/</id>
+    <published>2023-04-03T03:28:43.000Z</published>
+    <updated>2023-04-10T04:34:37.762Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="国内注册ChatGPT的方法"><a href="#国内注册ChatGPT的方法" class="headerlink" title="国内注册ChatGPT的方法"></a>国内注册ChatGPT的方法</h4><p><code>ChatGPT</code> 是由 <code>OpenAI </code>开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出，基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练，在这款软件中用户们可以与 AI 人工智能进行多种的对话工作，目前，有部分地区（例如<code>中国大陆</code>、<code>香港</code>）无法使用此项服务 </p><p><code>ChatGPT</code>技术开发商<code>OpenAI</code>斥巨资买下<code>AI.com</code>域名，现在访问<a href="https://ai.com/">AI.com</a>直接跳转到ChatGPT官网。 </p><h4 id="ChatGPT功能"><a href="#ChatGPT功能" class="headerlink" title="ChatGPT功能"></a>ChatGPT功能</h4><ul><li>ChatGPT 在搜索和写作上非常强大。</li><li>ChatGPT 可以根据用户提供的信息，给出合理而有效的搜索结果，</li><li>ChatGPT 写的短篇小说，</li><li>ChatGPT 写的信件，内容通畅，用词准确。</li><li>ChatGPT 撰写专业的电子邮件回复</li><li>ChatGPT 为营销活动产生新的内容创意</li><li>ChatGPT 解决任何编码问题或为获取代码</li></ul><h4 id="国内用户注册ChatGPT的方法"><a href="#国内用户注册ChatGPT的方法" class="headerlink" title="国内用户注册ChatGPT的方法"></a>国内用户注册ChatGPT的方法</h4><p> 国内用户想要注册 ChatGPT，首先需要有一个<strong>网络环境</strong>，例如<code>美国</code>；然后，需要一个可以接收短信验证码的手机号码，之后就可以打开 ChatGPT 的网站<strong>注册 ，邮件验证，电话号码验证</strong>等等。</p><p> <strong>如果出现如下的界面，则证明你的网络所在地区无法注册访问ChatGPT。</strong></p><p><code>注意：</code>如果无法搞定上述必要条件的话，可以尝试<br>搭建一个梯子  <a href="https://www.sunpeiwen.com/archives/396.html">x-ui：支持多协议多用户的 xray 面板</a>  </p><h5 id="注册-OpenAI-账号"><a href="#注册-OpenAI-账号" class="headerlink" title="注册 OpenAI 账号"></a>注册 OpenAI 账号</h5><p> 1、点击打开 <a href="https://chat.openai.com/auth/login">https://chat.openai.com/auth/login</a> 页面中的 <code>Sign up </code>进行相应的账号注册（注意网络环境不能是<code>香港</code>，<code>澳门</code>等地区，不然会提示不能在当前国家服务）。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676427587-%E6%B3%A8%E5%86%8COpenAI%E8%B4%A6%E5%8F%B7.png" alt="注册"><br>2、在新的页面可选择注册 <code>ChatGPT</code> 账号的方式，可以使用邮箱(国内邮箱也可以，建议使用国外邮箱)，，或者有谷歌账号的邮箱，或者用 Microsoft Account 注册也可以。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676427844-%E9%80%89%E6%8B%A9%E5%88%9B%E5%BB%BAChatGPT%E8%B4%A6%E5%8F%B7%E7%9A%84%E6%96%B9%E5%BC%8F.png" alt="选择创建ChatGPT账号的方式"><br><strong>使用邮箱注册ChatGPT时</strong>，输入邮箱地址，点击<code>Continue</code>，之后输入密码，进入下一步骤。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676428115-%E4%BD%BF%E7%94%A8%E9%82%AE%E7%AE%B1%E6%B3%A8%E5%86%8CChatGPT.png" alt="使用邮箱注册ChatGPT"><br><strong>使用 Microsoft Account 注册ChatGPT时</strong>，可以使用Microsoft账号登录，如果有Github账号的话，可点击<code>登录选项</code>，然后选择使用Github账号 注册。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676428134-%E4%BD%BF%E7%94%A8Microsoft-Account%E6%B3%A8%E5%86%8CChatGPT.png" alt="使用Microsoft-Account注册ChatGPT"><br><strong>使用 Google 账号注册ChatGPT时</strong>，输入Google账号地址及密码，然后进入下一步骤。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676428153-%E4%BD%BF%E7%94%A8Google%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8CChatGPT.png" alt="使用Google账号注册ChatGPT"><br>3、以<strong>使用邮箱注册ChatGPT</strong>为例，输入邮箱需要在邮箱收到的邮件内点击验证，</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676431622-%E9%AA%8C%E8%AF%81ChatGPT%E9%82%AE%E7%AE%B1.png" alt="验证ChatGPT邮箱"><br>4、然后继续在ChatGPT注册页面填入信息</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676431710-%E5%9C%A8ChatGPT%E6%B3%A8%E5%86%8C%E9%A1%B5%E9%9D%A2%E5%A1%AB%E5%85%A5%E4%BF%A1%E6%81%AF.png" alt="在ChatGPT注册页面填入信息"><br>5、填写ChatGPT手机短信验证码</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676431788-%E5%A1%AB%E5%86%99ChatGPT%E6%89%8B%E6%9C%BA%E7%9F%AD%E4%BF%A1%E9%AA%8C%E8%AF%81%E7%A0%81.png" alt="填写ChatGPT手机短信验证码"></p><h5 id="接收手机短信验证码"><a href="#接收手机短信验证码" class="headerlink" title="接收手机短信验证码"></a>接收手机短信验证码</h5><p> 需要使用中国以外的手机号码进行验证，例如美国、印度等，可以在俄罗斯的接码平台<code>sms-activate</code>来完成，该网站支持中文/英文显示界面，支持支付宝，使用俄罗斯卢布计费。</p><p> 1、现在就需要用到注册的第三方接码平台了，访问<a href="https://sms-activate.org/?ref=5366293"> </a><a href="https://sms-activate.org/?ref=5366293">https://sms-activate.org/</a>。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676432063-%E6%B3%A8%E5%86%8C%E7%9A%84%E7%AC%AC%E4%B8%89%E6%96%B9%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0%E4%BA%86.png" alt="注册的第三方接码平台了"> </p><p>2、注册完成后需要充值（按照 1 美元兑换 73 卢布），点击右上角<strong>“ 余额充值 ”</strong>，使用支付宝充值 1 美元即可<strong>（sms-activate.org平台规则发生变化，少于10美元充值，需最低充值2美元&lt;2023.3.22&gt;）</strong>。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676432200-%E6%B3%A8%E5%86%8C%E5%AE%8C%E6%88%90%E5%90%8E%E9%9C%80%E8%A6%81%E5%85%85%E5%80%BC.png" alt="注册完成后需要充值"><br>3、在平台左侧搜索 OpenAI ，然后在国家那里找到Indonesia(印度尼西亚)，点击选择国家后面的加入购物车即可。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676432316-1676429348918.png" alt="选择国家"><br>4、然后等一会出现如下界面，这里的手机号拷贝出来，输入到上一步中注册OpenAI的界面上，然后点击 Send code按钮，<strong>在下图的界面中等待验证码短信发送</strong>。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676433066-%E6%8E%A5%E6%94%B6%E8%BE%93%E5%85%A5%E9%AA%8C%E8%AF%81%E7%A0%81.jpg" alt="接收输入验证码"><br><code>注意：</code>有效期是20分钟，需要快速操作，若两三分钟没有收到短信验证码，可点击旁边的删除按钮，然后再次选择别的手机号码，未收到验证不扣费。</p><h4 id="使用ChatGPT"><a href="#使用ChatGPT" class="headerlink" title="使用ChatGPT"></a>使用ChatGPT</h4><p> 账号注册完成了，就可以尽情的使用ChatGPT来玩耍了，重新登录ChatGPT官网，然后<a href="https://chat.openai.com/">访问Chat</a>，这时你就可以开始尽情和机器人聊天了。</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676433542-%E4%BD%BF%E7%94%A8ChatGPT.png" alt="使用ChatGPT"></p><p>使用ChatGPT示例，如何写一个吸引人的 标题</p><p><img src="https://www.pythonthree.com/wp-content/uploads/2023/02/1676440083-%E4%BD%BF%E7%94%A8ChatGPT%E7%A4%BA%E4%BE%8B.png" alt="使用ChatGPT示例"></p><h4 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h4><p> 以上是为你介绍的国内注册 ChatGPT 的方法，希望对你了解 ChatGPT 有所帮助，如有问题，欢迎联系我们。</p>]]></content>
+    
+    
+    <summary type="html">国内注册ChatGPT的方法ChatGPT 是由 OpenAI 开发的一个人工智能聊天机器人程序，于 2022 年 11 月推出，基于 GPT-3.5 架构的大型语言模型并通过强化学习进行训练，在这款</summary>
+    
+    
+    
+    <category term="分享" scheme="https://weblog.js.org/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="教程" scheme="https://weblog.js.org/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="chatgpt" scheme="https://weblog.js.org/tags/chatgpt/"/>
+    
+    <category term="openai" scheme="https://weblog.js.org/tags/openai/"/>
+    
+    <category term="注册" scheme="https://weblog.js.org/tags/%E6%B3%A8%E5%86%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git在windows下区分大小写</title>
+    <link href="https://weblog.js.org/note/git-zai-windows-xia-qu-fen-da-xiao-xie/"/>
+    <id>https://weblog.js.org/note/git-zai-windows-xia-qu-fen-da-xiao-xie/</id>
+    <published>2023-03-21T11:03:13.000Z</published>
+    <updated>2023-04-10T04:34:37.724Z</updated>
+    
+    <content type="html"><![CDATA[<p>在<code>.deploy_git</code>目录下运行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config core.ignorecase <span class="literal">false</span></span><br></pre></td></tr></table></figure><p>可解决github pages 下CNAME被改为小写导致绑定域名失效的情况</p>]]></content>
+    
+    
+    <summary type="html">在.deploy_git目录下运行1git config core.ignorecase false可解决github pages 下CNAME被改为小写导致绑定域名失效的情况</summary>
+    
+    
+    
+    <category term="Note" scheme="https://weblog.js.org/categories/Note/"/>
+    
+    
+    <category term="git" scheme="https://weblog.js.org/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>魔趣倒了 安卓的刷机时代正式宣布结束了</title>
+    <link href="https://weblog.js.org/note/mo-qu-dao-liao-an-zhuo-de-shua-ji-shi-dai-zheng-shi-xuan-bu-jie-shu-liao/"/>
+    <id>https://weblog.js.org/note/mo-qu-dao-liao-an-zhuo-de-shua-ji-shi-dai-zheng-shi-xuan-bu-jie-shu-liao/</id>
+    <published>2023-01-11T02:15:24.000Z</published>
+    <updated>2023-01-11T02:15:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> <img src="https://blogcdn.asbid.cn/2023/01/11/1673403142.png" alt="QQ截图20230111101157.png"><br>魔趣的官网已经跳转到马丁龙猪的博客文章</p><p>宣布删库跑路。<br>我也曾刷过魔趣。也捐赠过。<br>很多人对马丁龙猪褒贬不一。</p><p>无论怎么说，这也是一个时代里曾留下过的痕迹了</p><p>当年的MIUI，乐蛙，yunos等等也只有MIUI活到了现在。</p>]]></content>
+    
+    
+    <summary type="html"> 魔趣的官网已经跳转到马丁龙猪的博客文章宣布删库跑路。我也曾刷过魔趣。也捐赠过。很多人对马丁龙猪褒贬不一。无论怎么说，这也是一个时代里曾留下过的痕迹了当年的MIUI，乐蛙，yunos等等也只有MIUI</summary>
+    
+    
+    
+    <category term="Note" scheme="https://weblog.js.org/categories/Note/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2022年12月8日终于全国防疫放开管控了</title>
+    <link href="https://weblog.js.org/note/2022-nian-12-yue-8-ri-zhong-yu-quan-guo-fang-yi-fang-kai-guan-kong-liao/"/>
+    <id>https://weblog.js.org/note/2022-nian-12-yue-8-ri-zhong-yu-quan-guo-fang-yi-fang-kai-guan-kong-liao/</id>
+    <published>2022-12-08T02:23:38.000Z</published>
+    <updated>2023-04-10T04:34:37.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>坚持了三年的疫情，终于在昨天放开管控了。 这意味着疫情的危害已然不如爆发之初的恐怖杀伤力了。 但是这一切不能不防。 很多阳过的朋友在网络上分享自己的心得。 各种囤积的必备药物。 还有被阳性包围保持阴性的必胜法宝。那就是口罩。 如果不想被阳，带口罩还是非常有必要的。</p><!-- more --><p>这一次终于我可以到处溜达了。</p>]]></content>
+    
+    
+    <summary type="html">坚持了三年的疫情，终于在昨天放开管控了。 这意味着疫情的危害已然不如爆发之初的恐怖杀伤力了。 但是这一切不能不防。 很多阳过的朋友在网络上分享自己的心得。 各种囤积的必备药物。 还有被阳性包围保持阴性</summary>
+    
+    
+    
+    <category term="Note" scheme="https://weblog.js.org/categories/Note/"/>
+    
+    
+    <category term="生活" scheme="https://weblog.js.org/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="疫情" scheme="https://weblog.js.org/tags/%E7%96%AB%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pip安装nonebot时报错</title>
+    <link href="https://weblog.js.org/linux/pip-an-zhuang-nonebot-shi-bao-cuo/"/>
+    <id>https://weblog.js.org/linux/pip-an-zhuang-nonebot-shi-bao-cuo/</id>
+    <published>2022-12-01T04:52:00.000Z</published>
+    <updated>2022-12-01T10:27:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="报错如下"><a href="#报错如下" class="headerlink" title="报错如下"></a>报错如下</h2><p> note: This error originates from a subprocess, and is likely not a problem with pip.<br>  ERROR: Failed building wheel for multidict<br>Failed to build yarl multidict<br>ERROR: Could not build wheels for yarl, multidict, which is required to install pyproject.toml-based projects</p><h2 id="问题所在"><a href="#问题所在" class="headerlink" title="问题所在"></a>问题所在</h2><p>缺失对应的whl文件。</p><h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p>安装对应的whl文件<br>在<a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/#_pandas">https://www.lfd.uci.edu/~gohlke/pythonlibs/#_pandas</a><br>中搜索安装<br>安装命令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install &quot;whl文件所在&quot;</span><br></pre></td></tr></table></figure><p>即可</p>]]></content>
+    
+    
+    <summary type="html">报错如下 note: This error originates from a subprocess, and is likely not a problem with pip.  ERROR: Fa</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://weblog.js.org/categories/Linux/"/>
+    
+    
+    <category term="python" scheme="https://weblog.js.org/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos7安装后没有网络</title>
+    <link href="https://weblog.js.org/linux/centos7-an-zhuang-hou-mei-you-wang-luo/"/>
+    <id>https://weblog.js.org/linux/centos7-an-zhuang-hou-mei-you-wang-luo/</id>
+    <published>2022-11-29T01:56:00.000Z</published>
+    <updated>2022-11-29T01:57:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>以<code>root</code>账号登陆<br>用<code>ip addr</code>命令查看网络参数。<br>打开<code>eth0</code>网卡的配置文件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vi /etc/sysconfig/network-scripts/ifcfg-eth0</span><br></pre></td></tr></table></figure><p>把<code>NOBOOT</code>参数<code>no</code>，修改为<code>yes</code><br>重启网络或者重启服务器都可</p>]]></content>
+    
+    
+    <summary type="html">以root账号登陆用ip addr命令查看网络参数。打开eth0网卡的配置文件1vi /etc/sysconfig/network-scripts/ifcfg-eth0把NOBOOT参数no，修改为y</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://weblog.js.org/categories/Linux/"/>
+    
+    
+    <category term="centos" scheme="https://weblog.js.org/tags/centos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>42个虚拟信用卡开卡渠道</title>
+    <link href="https://weblog.js.org/note/42-ge-xu-ni-xin-yong-qia-kai-qia-qu-dao/"/>
+    <id>https://weblog.js.org/note/42-ge-xu-ni-xin-yong-qia-kai-qia-qu-dao/</id>
+    <published>2022-11-29T00:47:15.000Z</published>
+    <updated>2022-11-29T00:47:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><p>全球付<br><a href="http://www.globalcash.hk/">http://www.globalcash.hk/</a><br>在线申请，可充值，微信支付，开卡简单。</p></li><li><p>爱汇旅之卡<br><a href="http://www.ihui.com/">http://www.ihui.com/</a><br>此卡是目前最方便容易获得，并大量获得的实体mastercard实体卡，可以直接联系客服大量拿卡，一次上百张甚至是数百张，该卡支持paypal、amazon、google等网站。</p></li><li><p>Tap&amp;go 拍住赏<br><a href="http://tapngo.com.hk/">http://tapngo.com.hk/</a><br>可以支持微信，amazon、applepay 国际阿里云 GCE aws paypal等大部分网站，需要认证，买卡可以去香港总部或者某宝，最低100余额 充值可在香港便利店充值或者网上找人代充！</p></li><li><p>三三金融：<br><a href="https://cards.33finance.com/">https://cards.33finance.com</a><br>需要到香港公司进行开卡，也可以找某宝，开出来的卡适用于大部分网站，包括欧贝通/amazon/阿里云/paypal/等等等等，充值也需要到香港便利店或者是到公司充，也可以找人代充。</p></li><li><p>Tierrapay<br><a href="http://www.tierrapay.com卡段4665/">www.tierrapay.com卡段4665</a><br>注册要用欧洲地址，比如英国，需要用pm或者是wmz充值，无需认证即可成功开卡。</p></li><li><p>通汇香港<br><a href="https://www.transforex.hk/">https://www.transforex.hk/</a><br>此卡要携带护照和身份证前往香港开通，该公司有礼品卡，固定金额每天限购买3张，经测试，此卡适用于paypal amazon ebay等平台</p></li><li><p>Uphold <a href="http://www.uphold.com/">www.uphold.com</a><br>需要护照和地址证明申请，支持银行 比特币进行充值</p></li><li><p>Payeer<br><a href="http://www.zhesui.com/payeer/">http://www.zhesui.com/payeer/</a><br>目前需要用欧洲国家的资料注册，</p></li><li><p>Advcash<br>目前需要用欧洲国家的资料注册</p></li><li><p>Moneypolo<br><a href="http://www.zhesui.com/moneypolo/%E9%9C%80%E8%A6%81%E5%AE%8C%E6%88%90%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%94%B6%E8%B4%B9%E8%B4%AD%E4%B9%B0%E3%80%82">http://www.zhesui.com/moneypolo/需要完成实名认证，以及收费购买。</a></p></li><li><p>Wirexapp<br><a href="http://www.zhesui.com/wirex-app-visa/">http://www.zhesui.com/wirex-app-visa/</a><br>4665卡段，目前需要用欧洲国家地址注册申请。没认证只能比特币充值。</p></li><li><p>Payoneer派安盈<br>附带美国 日本 英国和欧洲银行账户<br><a href="http://www.payoneer.com/">http://www.payoneer.com/</a></p></li><li><p>okpay<br>需要用护照通过实名认证才能开卡。</p></li><li><p>Qiwi<br><a href="https://qiwi.com/">https://qiwi.com/</a><br>需要俄罗斯电话卡注册成功才能开卡 （俄罗斯卡可以去淘宝买一个）</p></li><li><p>ecoPayz<br><a href="http://www.zhesui.com/ecopayz-card/">http://www.zhesui.com/ecopayz-card/</a><br>目前需要认证，该卡支持大部分网站，可以无限移除替换卡片。</p></li><li><p>浦发E-GO卡（需要有浦发实体卡）<br><a href="http://www.zhesui.com/e-go/">http://www.zhesui.com/e-go/</a><br>该卡可以开出银联 mastercard visa AME 四种卡片</p></li><li><p>Yandexmoney<br>money.yandex.ru<br>以上虚拟卡渠道基本都是国外电子钱包发行的，类似于国内的支付宝，不同的是除开少数几个支持人民币和国内银行充值的之外，其他基本都需要使用国外银行卡或者是电子钱包、信用卡充值，如果没有的话我们可以通过兑换的方式为该网站充值，具体兑换商可参照电子货币兑换网中国上面所说的兑换网站以及方法：电子货币兑换网中国：<a href="http://currencyexchange.net.cn/">http://currencyexchange.net.cn/</a></p></li><li><p>VirtualCards（支持支付宝充值）<br><a href="https://virtualcards.us/">https://VirtualCards.us</a><br>50美元起充，注册成功无需充值既可出卡号</p></li><li><p>payweb<br><a href="http://payweb.com/">http://payweb.com</a><br>（需要付费、只有实体卡）可以用银联进行充值！</p></li><li><p>Solid Trust Pay<br><a href="http://solidtrustpay.com/">http://SolidTrustPay.com</a></p></li><li><p>Skrill（需要注册国外账户）<br><a href="http://www.skrill.com/">http://www.skrill.com</a><br>要注册欧洲国家的资料才有开卡选项。</p></li><li><p>Neteller（需要注册国外账户）<br><a href="http://www.neteller.com/">www.neteller.com</a></p></li><li><p>v-preca（需要日本ip注册 少数中国卡能够充值）<br><a href="http://vpc.lifecard.co.jp/">http://vpc.lifecard.co.jp</a></p></li><li><p>mun-prepaid（需要日本ip注册）<br>日元卡或者日本便利店充值<br><a href="http://www.mun-prepaid.com/">www.mun-prepaid.com</a></p></li><li><p>Giftcardmall<br><a href="http://www.giftcardmall.com/">www.giftcardmall.com</a><br>此网站要美国信用卡或者是借记卡进行购买</p></li><li><p>netspend（需翻墙 国外身份认证）<br><a href="http://www.netspend.com/">www.Netspend.com</a></p></li><li><p>vanilla（实体卡、需要国外身份或者是便利店购买）<br>也可以找我们进行购买。<br><a href="http://www.vanilla.com/">www.vanilla.com</a></p></li><li><p>通汇香港<br><a href="https://www.transforex.hk/">https://www.transforex.hk/</a><br>此卡支持amazon googleplay paypal 等网站需要携带护照和身份证到香港总公司进行开卡！用身份证就能通过认证，可以开实体卡和虚拟卡</p></li><li><p>Entropay 欧贝通<br><a href="http://www.entropay.com/">www.Entropay.com</a><br>不认证可以开五张卡，4067卡段，该卡可以用三三金融卡进行充值，可以自定义充值金额，认证过的账户可以开出10张卡片，可以自由决定充值的金额。欧贝通充值可以用 tapngo卡和三三金融进行充值，经本人测试是中国用户目前最好使的充值方法，tapngo和三三金融可以自行在香港购买。</p></li><li><p>payoneer<br>payoneer是目前非常不错的虚拟卡平台，身份证即可申请下来，遗憾的是申请到收到卡需要一个月左右的时间，值得一提的是payoneer更吸引我们的是他有美国银行账户、美元、欧元、日元、英镑银行账户可供我们申请选择，非常值得拥有。</p></li><li><p>Mmvpaymmvpay<br>是新加坡的虚拟卡平台可以开出mastercard 虚拟卡，需要新加坡手机号码注册！经过测试，账户不用认证，甚至是不用充值，一个账户直接可以获取5张卡片信息，包含卡号，有效期和卡密信息</p></li><li><p>paypal mastercard<br><a href="https://www.paypal.com/us/webapps/mpp/paypal-prepaid-mastercard">https://www.paypal.com/us/webapps/mpp/paypal-prepaid-mastercard</a><br>此卡是paypal美国发行的mastercard，支持大部分网站消费，绑定以及验证，但是需要美国护照、身份和银行卡信息申请，并且是需要真实的</p></li><li><p>amazon mastercard<br><a href="https://www.amazon.co.jp/">https://www.amazon.co.jp/</a><br>三井住友カード株式会社-amazon-mastercardゴード/dp/b0092vb6vkAmazon mastercard是amazon日本网站发行的mastercard虚拟卡账户，同样是需要日本身份证护照地址证明才能申请下来，专门针对日亚的mastercard。</p></li><li><p>Cryptopaycryptopay<br>是一个数字交易平台同属4665卡段的虚拟卡，不认证可以开出虚拟卡，但是前提是必须用欧洲国家的地址以及资料进行注册！</p></li><li><p>Capitalistcapitalist<br>是一个俄罗斯的电子钱包工具，目前不认证一个账户可以开2张mastercard虚拟卡，分别是一张欧元的一张，一张美元的，认证过后可以开通四张卡片，两张实体卡和两张虚拟卡。</p></li><li><p>Unichangeunichange<br>是一个电子货币兑换平台，该平台提供欧元和美元两种币种的虚拟卡。Unichange.me如果你没有某些资料，某些材料，那么万能的商人一定可以满足的了你！</p></li><li><p>PayzaPayza<br>也是一个电子钱包工具，类似于paypal之类的电子 钱包，这边主要介绍payza发行的mastercard虚拟卡，申请虚拟卡需要身份证和信用卡认证，可以用预付卡能看得到自己姓名的信用卡。</p></li><li><p>mycard2go<br>mycard2go是一个德国的虚拟卡，发卡行为wire bank ag卡种为visa，注册账户无需身份认证，但是需要进行充值了才能开卡，充值成功后自动开通卡片，卡种为欧元，需要用KLARNA网银或者是当地现金进行充值，也可以进行网银。</p></li><li><p>Vandle<br><a href="https://app.vandle.jp/">https://app.vandle.jp/</a><br>vandle是一家日本的虚拟卡提供平台，它提供mastercard虚拟卡片，需要再日本的便利店进行充值，也可以用日本的信用卡网银进行充值</p></li><li><p>Chocom<br><a href="http://www.chocom.jp/index.html">http://www.chocom.jp/index.html</a><br>Chocom也是一家日本的虚拟卡，可以在日本的便利店，或者是日本信用卡以及Chocom电子钱包进行充值。</p></li><li><p>Docomokouza<br>docomokouza为日本docomo发行的visa虚拟信用卡，甚至是注册无需审查即可申请visa虚拟卡，最短有效期仅10天，还有一种则为3年需要日本的电子货币或者是信用卡对其进行充值。<br><a href="https://docomokouza.jpmastercard借记卡/">https://docomokouza.jpmastercard借记卡</a></p></li><li><p>Nttsmarttrade<br>nttsmarttrade是一家日本的在线虚拟卡平台，支持中文界面，非常方便，需要用日本信用卡段进行充值，中国和日本以外的mastercard无法进行充值。<a href="http://www.nttsmarttrade.co.jp/mastercardnet/cn/">http://www.nttsmarttrade.co.jp/mastercardnet/cn/</a></p></li></ol>]]></content>
+    
+    
+    <summary type="html">全球付http://www.globalcash.hk/在线申请，可充值，微信支付，开卡简单。爱汇旅之卡http://www.ihui.com/此卡是目前最方便容易获得，并大量获得的实体masterc</summary>
+    
+    
+    
+    <category term="Note" scheme="https://weblog.js.org/categories/Note/"/>
+    
+    
+    <category term="虚拟信用卡" scheme="https://weblog.js.org/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搜索引擎的必经之路？</title>
+    <link href="https://weblog.js.org/note/sou-suo-yin-qing-de-bi-jing-zhi-lu/"/>
+    <id>https://weblog.js.org/note/sou-suo-yin-qing-de-bi-jing-zhi-lu/</id>
+    <published>2022-11-25T09:10:05.000Z</published>
+    <updated>2022-11-25T09:10:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近发现bing国内搜索开始广告泛滥，开始有点恶心了。<br>本来以为只有一个百度吃相难看也就罢了。<br>现在连微软旗下的bing也开始投放广告，前几页的搜索结果竟然没有一个能匹配到的，着实让我不想继续再用下去了。</p>]]></content>
+    
+    
+    <summary type="html">最近发现bing国内搜索开始广告泛滥，开始有点恶心了。本来以为只有一个百度吃相难看也就罢了。现在连微软旗下的bing也开始投放广告，前几页的搜索结果竟然没有一个能匹配到的，着实让我不想继续再用下去了。</summary>
+    
+    
+    
+    <category term="Note" scheme="https://weblog.js.org/categories/Note/"/>
+    
+    
+    <category term="bing" scheme="https://weblog.js.org/tags/bing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS与Windows双系统时间不同步的解决办法</title>
+    <link href="https://weblog.js.org/macos/macos-yu-windows-shuang-xi-tong-shi-jian-bu-tong-bu-de-jie-jue-ban-fa/"/>
+    <id>https://weblog.js.org/macos/macos-yu-windows-shuang-xi-tong-shi-jian-bu-tong-bu-de-jie-jue-ban-fa/</id>
+    <published>2022-11-15T05:07:00.000Z</published>
+    <updated>2022-11-15T05:08:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在windows下<br>右键点击开始菜单，选择终端（管理员）</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1</span><br></pre></td></tr></table></figure><p>回车搞定！重启试试！</p>]]></content>
+    
+    
+    <summary type="html">在windows下右键点击开始菜单，选择终端（管理员）1Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v Rea</summary>
+    
+    
+    
+    <category term="MacOS" scheme="https://weblog.js.org/categories/MacOS/"/>
+    
+    
+    <category term="macos" scheme="https://weblog.js.org/tags/macos/"/>
+    
+    <category term="时间同步" scheme="https://weblog.js.org/tags/%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5/"/>
+    
+    <category term="windows" scheme="https://weblog.js.org/tags/windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VK23黑苹果OpenCore0.8.5引导macOS12.6.1</title>
+    <link href="https://weblog.js.org/hackintosh/vk23-hei-ping-guo-opencore0.8.5-yin-dao-macos12.6.1/"/>
+    <id>https://weblog.js.org/hackintosh/vk23-hei-ping-guo-opencore0.8.5-yin-dao-macos12.6.1/</id>
+    <published>2022-11-08T06:23:36.000Z</published>
+    <updated>2022-11-08T06:23:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>网卡更换为DW1560</p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://blogcdn.asbid.cn/2022/11/08/1667888431.png" alt="1.png"><br><img src="https://blogcdn.asbid.cn/2022/11/08/1667888431.png" alt="QQ20221108-141421.png"><br><img src="https://blogcdn.asbid.cn/2022/11/08/1667888432.png" alt="QQ20221108-141440.png"><br><img src="https://blogcdn.asbid.cn/2022/11/08/1667888433.png" alt="QQ20221108-141449.png"><br><img src="https://blogcdn.asbid.cn/2022/11/08/1667888433.png" alt="QQ20221108-141458.png"><br><img src="https://blogcdn.asbid.cn/2022/11/08/1667888434.png" alt="QQ20221108-141507.png"><br><img src="https://blogcdn.asbid.cn/2022/11/08/1667888434.png" alt="QQ20221108-141517.png"></p><h2 id="正常工作"><a href="#正常工作" class="headerlink" title="正常工作"></a>正常工作</h2><ul><li><input checked="" disabled="" type="checkbox"> 显卡</li><li><input checked="" disabled="" type="checkbox"> 声卡</li><li><input checked="" disabled="" type="checkbox"> 有线网卡</li><li><input checked="" disabled="" type="checkbox"> 无线网卡</li><li><input checked="" disabled="" type="checkbox"> 摄像头</li><li><input checked="" disabled="" type="checkbox"> 读卡器</li><li><input checked="" disabled="" type="checkbox"> 蓝牙</li><li><input checked="" disabled="" type="checkbox"> 隔空投送</li></ul><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://bbs.dasbid.com/thread/32">下载地址1</a></p>]]></content>
+    
+    
+    <summary type="html">配置网卡更换为DW1560截图正常工作 显卡 声卡 有线网卡 无线网卡 摄像头 读卡器 蓝牙 隔空投送下载地址下载地址1</summary>
+    
+    
+    
+    <category term="Hackintosh" scheme="https://weblog.js.org/categories/Hackintosh/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NEC VK23T对比体验VK22T</title>
+    <link href="https://weblog.js.org/note/nec-vk23t-dui-bi-ti-yan-vk22t/"/>
+    <id>https://weblog.js.org/note/nec-vk23t-dui-bi-ti-yan-vk22t/</id>
+    <published>2022-11-08T06:02:00.000Z</published>
+    <updated>2022-11-08T06:24:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>由于之前的nec vk22被我折腾坏了。剩下了个充电器，于是在闲鱼上又转悠了半年。买了这台vk23。属实是为了一颗蒜，做了一顿饺子。<br>一样的是日本走私货。<br>相同点a面贴了贴纸。c面日本文键盘。<br>不同点体现在屏幕，vk23是一块分辨率为720p的TN屏。比VK22的2KIPS差远了。<br>VK23的内存是可以更换的，但是只有一个内存插槽。这点比vk22稍微好那么一点。有3个usb一个HDMI一个minidp一个读卡器。而且有一个摄像头。重量比vk22重一丢丢。尺寸也只有12.5英寸。用来打字上网办公还是绰绰有余的。<br>我买的这款是i3 6100U低压U比i5的主频少了一点，且不能睿频。<br>但是相比5200U来说已经很不错了。这个miniDP可以输出4K60HZ也是相当不错的。<br>笔记本内部有一个m2插槽，支持2242的nvme协议固态硬盘，且只能支持2个缺口的半速m2硬盘。还有一个2.5寸硬盘位。相对来说也是够用了。无线网卡是intel的8260.可以更换，所以我换了更适合黑苹果的dw1560.<br>没错，拿到笔记本还是要黑苹果的。<br>关于黑苹果就下文再写了。</p><p>[cid=”370”]</p>]]></content>
+    
+    
+    <summary type="html">由于之前的nec vk22被我折腾坏了。剩下了个充电器，于是在闲鱼上又转悠了半年。买了这台vk23。属实是为了一颗蒜，做了一顿饺子。一样的是日本走私货。相同点a面贴了贴纸。c面日本文键盘。不同点体现在</summary>
+    
+    
+    
+    <category term="Note" scheme="https://weblog.js.org/categories/Note/"/>
+    
+    
+    <category term="nec" scheme="https://weblog.js.org/tags/nec/"/>
+    
+    <category term="vk23" scheme="https://weblog.js.org/tags/vk23/"/>
+    
+    <category term="测评" scheme="https://weblog.js.org/tags/%E6%B5%8B%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>华硕b150m-et m2+rx560黑苹果oc0.8.5引导</title>
+    <link href="https://weblog.js.org/hackintosh/hua-shuo-b150m-et-m2-rx560-hei-ping-guo-oc0.8.5-yin-dao/"/>
+    <id>https://weblog.js.org/hackintosh/hua-shuo-b150m-et-m2-rx560-hei-ping-guo-oc0.8.5-yin-dao/</id>
+    <published>2022-10-21T06:58:00.000Z</published>
+    <updated>2022-11-15T05:10:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="配置如下"><a href="#配置如下" class="headerlink" title="配置如下"></a>配置如下</h2><p>cpu：魔改qhpw 2.2g hz</p><p>主板：华硕b150m-et m2</p><p>内存：8g ddr4 2133mhz</p><p>硬盘：nvme 256gb ssd</p><p>显卡：肥猫家rx560 4gb</p><p>网卡：bcm94360cd</p><p>电源：长城额定300w</p><p>机箱：乔思伯c2黑色</p><p>乔思伯这个机箱是个大闷罐，但是显卡功耗低，双烤温度最高75摄氏度</p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://blogcdn.asbid.cn/2022/10/21/1666335477.jpg" alt="Jietu20221020-144354.jpg"><br><img src="https://blogcdn.asbid.cn/2022/10/21/1666335487.jpg" alt="Jietu20221021-145738.jpg"></p><h2 id="bios设置"><a href="#bios设置" class="headerlink" title="bios设置"></a>bios设置</h2><ul><li><p>[&#10007;]关闭  CSM兼容性</p></li><li><p>[&#10007;] 关闭  VT-D </p></li><li><p>[&#10007;] 关闭  串口</p></li><li><p>[&#10004;] 打开  USB handoff</p></li><li><p>[&#10007;] 关闭  CFG LOCK</p></li></ul><h2 id="已驱动"><a href="#已驱动" class="headerlink" title="已驱动"></a>已驱动</h2><ul><li><p><input checked="" disabled="" type="checkbox">  声卡</p></li><li><p><input checked="" disabled="" type="checkbox">  网卡</p></li><li><p><input checked="" disabled="" type="checkbox">  显卡</p></li><li><p><input checked="" disabled="" type="checkbox">  电源管理</p></li><li><p><input checked="" disabled="" type="checkbox">  显卡加速</p></li></ul><p><img src="https://blogcdn.asbid.cn/2022/10/21/1666337330.jpg" alt="Jietu20221021-152807.jpg"></p><h2 id="引导下载"><a href="#引导下载" class="headerlink" title="引导下载"></a>引导下载</h2><p> <a href="https://bbs.dasbid.com/thread/22">下载地址</a></p>]]></content>
+    
+    
+    <summary type="html">配置如下cpu：魔改qhpw 2.2g hz主板：华硕b150m-et m2内存：8g ddr4 2133mhz硬盘：nvme 256gb ssd显卡：肥猫家rx560 4gb网卡：bcm94360c</summary>
+    
+    
+    
+    <category term="Hackintosh" scheme="https://weblog.js.org/categories/Hackintosh/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>office2016 Mac 版本下载安装及破解激活</title>
+    <link href="https://weblog.js.org/macos/office2016-mac-ban-ben-xia-zai-an-zhuang-ji-po-jie-ji-huo/"/>
+    <id>https://weblog.js.org/macos/office2016-mac-ban-ben-xia-zai-an-zhuang-ji-po-jie-ji-huo/</id>
+    <published>2022-10-14T00:25:18.000Z</published>
+    <updated>2022-10-14T00:25:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>一、安装包下载地址</p><p><a href="http://officecdn.microsoft.com/sg/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_15.29.16120900_Installer.pkg">http://officecdn.microsoft.com/sg/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_15.29.16120900_Installer.pkg</a></p><p>二、激活工具</p><p>[hide]<br>链接: <a href="https://pan.baidu.com/s/1ragcr1M">https://pan.baidu.com/s/1ragcr1M</a></p><p>密码: rcb2<br>[/hide]</p>]]></content>
+    
+    
+    <summary type="html">一、安装包下载地址http://officecdn.microsoft.com/sg/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_</summary>
+    
+    
+    
+    <category term="MacOS" scheme="https://weblog.js.org/categories/MacOS/"/>
+    
+    
+    <category term="office" scheme="https://weblog.js.org/tags/office/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网鱼一体机b85+GTX960黑苹果Clover引导10.13.6</title>
+    <link href="https://weblog.js.org/hackintosh/wang-yu-yi-ti-ji-b85-gtx960-hei-ping-guo-clover-yin-dao-10.13.6/"/>
+    <id>https://weblog.js.org/hackintosh/wang-yu-yi-ti-ji-b85-gtx960-hei-ping-guo-clover-yin-dao-10.13.6/</id>
+    <published>2022-10-13T08:21:00.000Z</published>
+    <updated>2022-10-14T00:25:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>小黄鱼淘了一块自带gtx960的主板<br>现在淘宝也就是400元的价格</p><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p><img src="https://blogcdn.asbid.cn/2022/10/13/1665649402.jpg" alt="ludashi.jpg"></p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://blogcdn.asbid.cn/2022/10/13/1665654724.jpg" alt="Jietu20221013-175057@2x.jpg"><br><img src="https://blogcdn.asbid.cn/2022/10/13/1665654725.jpg" alt="Jietu20221013-175109@2x.jpg"><br><img src="https://blogcdn.asbid.cn/2022/10/13/1665654725.jpg" alt="Jietu20221013-175140@2x.jpg"></p><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p> <a href="https://blogcdn.asbid.cn/2022/10/13/1665649233.zip">EFI.zip</a> </p>]]></content>
+    
+    
+    <summary type="html">小黄鱼淘了一块自带gtx960的主板现在淘宝也就是400元的价格配置截图下载 EFI.zip </summary>
+    
+    
+    
+    <category term="Hackintosh" scheme="https://weblog.js.org/categories/Hackintosh/"/>
+    
+    
+    <category term="黑苹果" scheme="https://weblog.js.org/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
+    
+    <category term="clover" scheme="https://weblog.js.org/tags/clover/"/>
+    
+    <category term="网鱼一体机" scheme="https://weblog.js.org/tags/%E7%BD%91%E9%B1%BC%E4%B8%80%E4%BD%93%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos7 ssh连接慢的解决方法</title>
+    <link href="https://weblog.js.org/linux/centos7-ssh-lian-jie-man-de-jie-jue-fang-fa/"/>
+    <id>https://weblog.js.org/linux/centos7-ssh-lian-jie-man-de-jie-jue-fang-fa/</id>
+    <published>2022-08-12T08:52:00.000Z</published>
+    <updated>2022-08-12T08:55:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /etc/ssh/sshd_config</span><br></pre></td></tr></table></figure><p>按i编辑插入<br>找到<br><code>UseDNS</code>去掉前面的#号 改为 no</p><p><code>GSSAPIAuthentication</code> 改为 no</p><p>然后<code>：wq </code>保存退出</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">systemctl restart sshd</span><br></pre></td></tr></table></figure><p>重启</p>]]></content>
+    
+    
+    <summary type="html">1vim /etc/ssh/sshd_config按i编辑插入找到UseDNS去掉前面的#号 改为 noGSSAPIAuthentication 改为 no然后：wq 保存退出1systemctl r</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://weblog.js.org/categories/Linux/"/>
+    
+    
+    <category term="centos" scheme="https://weblog.js.org/tags/centos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS锁屏时钟fliqlo</title>
+    <link href="https://weblog.js.org/macos/macos-suo-ping-shi-zhong-fliqlo/"/>
+    <id>https://weblog.js.org/macos/macos-suo-ping-shi-zhong-fliqlo/</id>
+    <published>2022-08-08T01:14:00.000Z</published>
+    <updated>2023-04-10T04:34:37.719Z</updated>
+    
+    <content type="html"><![CDATA[<p>一款好看的锁屏时钟<br>同时也有Windows版本可以下载</p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://blogcdn.asbid.cn/2022/08/08/1659921276.png" alt="QQ20220808-091421@2x.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.asbid.cn/d/123%E7%BD%91%E7%9B%98/%E9%BB%91%E8%8B%B9%E6%9E%9C/fliqlo171.dmg">下载地址1</a></p>]]></content>
+    
+    
+    <summary type="html">一款好看的锁屏时钟同时也有Windows版本可以下载截图下载地址下载地址1</summary>
+    
+    
+    
+    <category term="MacOS" scheme="https://weblog.js.org/categories/MacOS/"/>
+    
+    
+    <category term="macos" scheme="https://weblog.js.org/tags/macos/"/>
+    
+    <category term="下载" scheme="https://weblog.js.org/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+    <category term="fliqlo" scheme="https://weblog.js.org/tags/fliqlo/"/>
+    
+  </entry>
+  
+</feed>
